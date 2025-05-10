@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>vac</title>
+    
   </head>
   <body bgcolor="#8DB600">
     <h1>
